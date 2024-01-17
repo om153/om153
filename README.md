@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Machine Learning & Exploring Data Science<br>🤝 I’m looking for help with Deep Learning & Projects<br>🌱 I’m currently learning NLP & Generative AI<br>💬 Ask me about Data Science<br>
+🔭 I’m currently working on Machine Learning & Exploring Data Science<br>🤝 I’m looking for help with NLP & Generative AI<br>🌱 I’m currently learning Deep Learning & Dashboarding<br>💬 Ask me about Data Science<br>
 
 
 ## 🌐 Socials:
